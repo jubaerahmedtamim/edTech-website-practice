@@ -1,3 +1,23 @@
-
 /* utilities/ common or base styles here */
-    
+.primary-btn{
+    background-color: 
+    #289BDE;
+    padding: 15px 35px;
+}
+
+
+/* carousel custom styles here */
+
+.carousel-item {
+    height: 900px;
+}
+
+.carousel-heading {
+    font-weight: 600;
+    font-size: 65px;
+}
+.carousel-info{
+    font-weight: 400;
+    font-size: 18px;
+    color: #F4F4F4;
+}
